@@ -18,7 +18,6 @@ export const routes: Routes = [
 })*/
 
 /* router-outlet error */
-
 export const routers = RouterModule.forRoot(routes)
 
 
