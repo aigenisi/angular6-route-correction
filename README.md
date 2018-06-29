@@ -1,13 +1,13 @@
-# Build Setup
+## Build Setup
 
-# install dependencies
-yarn|npm|cnpm install
+## install dependencies
+yarn | npm | cnpm         install
 
-# serve with hot reload at localhost:8080
-yarn start | npm run start
+## serve with hot reload at localhost:8080
+yarn start   |   npm run start
 
-# build for production with minification
-yarn build | npm run build
+## build for production with minification
+yarn build   |   npm run build
 
 ## Development server
 
