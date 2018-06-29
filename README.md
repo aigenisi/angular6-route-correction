@@ -1,6 +1,13 @@
-# NewProject
+## Build Setup
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+## install dependencies
+yarn | npm | cnpm         install
+
+## serve with hot reload at localhost:8080
+yarn start   |   npm run start
+
+## build for production with minification
+yarn build   |   npm run build
 
 ## Development server
 
